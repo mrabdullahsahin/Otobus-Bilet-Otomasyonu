@@ -1,0 +1,19 @@
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\bin\Debug\Otobüs Bilet Otomasyonu.exe.config
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.Properties.Resources.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs Bilet Otomasyonu.csproj.GenerateResource.Cache
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\bin\Debug\Otobüs Bilet Otomasyonu.exe
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\bin\Debug\Otobüs Bilet Otomasyonu.pdb
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs Bilet Otomasyonu.exe
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs Bilet Otomasyonu.pdb
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.AnaForm.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.girisformu.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.MarkaIslemleri.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.OtobusDetay.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs Bilet Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.SubeIslemleri.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.Personel.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.MasrafCesitleri.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.PozisyonIslemleri.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.GuzergahIslemleri.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.bilet.resources
+D:\Otobüs Bilet Sistemi\Otobüs Bilet Otomasyonu\Otobüs Bilet Otomasyonu\obj\Debug\Otobüs_Bilet_Otomasyonu.Seferim.resources
